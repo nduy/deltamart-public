@@ -1,3 +1,6 @@
+#!/usr/bin/python
+# -*- coding: UTF-8 -*-
+
 #######################
 #
 # USER-DEFINE FUNCTION TO OBTAIN SENSORY DATA
