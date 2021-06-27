@@ -24,6 +24,7 @@ from config import TEST as TEST
         YOUR CODES GO HERE ☟☟☟☟ ⤋⤋⤋ ▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼
 Get sensory data and put it in a plain-text message
 '''
+# TODO: implement method for drawing data from your sensors
 def packagemess():
 
     result= ""
