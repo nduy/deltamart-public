@@ -27,9 +27,8 @@ Params:
     elif (scheme_code==6):    #Base 32
         return base64.b32encode(bytes(string, 'utf-8'))
     elif (scheme_code==7):    #Base 64
-        return base64.b64encode(bytes(string, 'utf-8'))
-    elif (scheme_code==8):    #Base 85
-        return base64.b85encode(bytes(string, 'utf-8'))
+        return base64.b64encode(bytes(string))
+
     else:
         return string
 
