@@ -5,7 +5,7 @@
 DEST_IP="localhost";
 
 #Name of the MQTT topic under which the stream will be published
-TOPIC_NAME="interesting0topic1";
+TOPIC_NAME="lighthouseDmorning";
 
 #Expected stream rate sample per second
 STREAM_RATE=3;
